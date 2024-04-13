@@ -1,4 +1,4 @@
-## Text Editors 
+### 3- Text Editors 
 ### 1- Nano
 **GNU nano** is a text editor for Unix-like computing systems or operating environments using a command line interface. It emulates the Pico text editor, part of the Pine email client, and also provides additional functionalities such as: opening multiple files, scrolling per line, undo/redo, syntax coloring, line numbering, and soft-wrapping overlong lines.
 
