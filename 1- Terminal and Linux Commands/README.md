@@ -2,7 +2,7 @@
 please read the [handwritten notes](https://drive.google.com/file/d/1JtzLUdf0sXxKy6Wyz_LyBDOZZsiz7qE-/view?usp=drive_link), then the [presentation](https://docs.google.com/presentation/d/117rCCb7Z838Rp2WZpmRd9rdzq1-teQytHnkAeoheVZ8/edit?usp=drive_link) then read this md files.
 these md files shows working examples for some topics mentioned in the notes that has a  working examples on git.
 Link for [Embedded-Linux Google drive](https://drive.google.com/drive/u/0/folders/1E9dFgduPg2835RwebUoiKIaREmExyoyW)
-if you find any mistake or you have any suggestion or any additional information please contact me.
+if you find any mistake or you have any suggestion or any additional information please leave a comment on google drive.
 
 below is the table of content of this chapter and the titles that are followed by (*) has a working examples and an 'md' file.
 
