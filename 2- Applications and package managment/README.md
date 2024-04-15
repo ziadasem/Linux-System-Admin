@@ -12,7 +12,7 @@ below is the table of contents of this chapter and the titles that are followed 
 	1.3. Working of Package Management Software
 	1.4. Content of a Package
 2. Linux Applications; Alternative Applications to Windows applications **
-3. Linux Applications; Text Editiros *
+3. Linux Applications; Text Editors  *
 4- Archiving and compression *
 
 
